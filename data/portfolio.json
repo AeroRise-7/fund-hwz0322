@@ -1,0 +1,28 @@
+[
+  {
+    "fund_code": "017811",
+    "fund_name": "东方人工智能主题混合C(017811",
+    "amount": 1000.0,
+    "purchase_date": "2025-03-04",
+    "cost_per_unit": 1.0824,
+    "shares": 923.8728750923873,
+    "net_value": 1.0732,
+    "current_value": 991.5003695491499,
+    "profit": -8.499630450850077,
+    "profit_percentage": -0.8499630450850078,
+    "update_time": "2025-03-22 22:12:05"
+  },
+  {
+    "fund_code": "018125",
+    "fund_name": "永赢先进制造智选混合发起C(018125",
+    "amount": 1000.0,
+    "purchase_date": "2025-03-01",
+    "cost_per_unit": 1.9699,
+    "shares": 507.63998172496065,
+    "net_value": 2.0162,
+    "current_value": 1023.5037311538656,
+    "profit": 23.5037311538656,
+    "profit_percentage": 2.35037311538656,
+    "update_time": "2025-03-22 22:12:31"
+  }
+]
